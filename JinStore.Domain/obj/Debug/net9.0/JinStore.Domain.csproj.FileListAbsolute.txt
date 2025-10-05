@@ -1,0 +1,11 @@
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Domain\bin\Debug\net9.0\JinStore.Domain.deps.json
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Domain\bin\Debug\net9.0\JinStore.Domain.dll
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Domain\bin\Debug\net9.0\JinStore.Domain.pdb
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Domain\obj\Debug\net9.0\JinStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Domain\obj\Debug\net9.0\JinStore.Domain.AssemblyInfoInputs.cache
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Domain\obj\Debug\net9.0\JinStore.Domain.AssemblyInfo.cs
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Domain\obj\Debug\net9.0\JinStore.Domain.csproj.CoreCompileInputs.cache
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Domain\obj\Debug\net9.0\JinStore.Domain.dll
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Domain\obj\Debug\net9.0\refint\JinStore.Domain.dll
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Domain\obj\Debug\net9.0\JinStore.Domain.pdb
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Domain\obj\Debug\net9.0\ref\JinStore.Domain.dll

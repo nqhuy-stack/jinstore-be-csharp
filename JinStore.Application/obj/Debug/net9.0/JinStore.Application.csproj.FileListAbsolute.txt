@@ -1,0 +1,15 @@
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Application\bin\Debug\net9.0\JinStore.Application.deps.json
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Application\bin\Debug\net9.0\JinStore.Application.dll
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Application\bin\Debug\net9.0\JinStore.Application.pdb
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Application\bin\Debug\net9.0\JinStore.Domain.dll
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Application\bin\Debug\net9.0\JinStore.Domain.pdb
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Application\obj\Debug\net9.0\JinStore.Application.csproj.AssemblyReference.cache
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Application\obj\Debug\net9.0\JinStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Application\obj\Debug\net9.0\JinStore.Application.AssemblyInfoInputs.cache
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Application\obj\Debug\net9.0\JinStore.Application.AssemblyInfo.cs
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Application\obj\Debug\net9.0\JinStore.Application.csproj.CoreCompileInputs.cache
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Application\obj\Debug\net9.0\JinStore.8ACC5E46.Up2Date
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Application\obj\Debug\net9.0\JinStore.Application.dll
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Application\obj\Debug\net9.0\refint\JinStore.Application.dll
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Application\obj\Debug\net9.0\JinStore.Application.pdb
+D:\Workspace\Personal\CSharp\JinStore\JinStore.Application\obj\Debug\net9.0\ref\JinStore.Application.dll
